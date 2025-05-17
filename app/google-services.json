@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "20475283607",
+    "project_id": "autocheck-308a0",
+    "storage_bucket": "autocheck-308a0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20475283607:android:c5fe627376569920e6c1d2",
+        "android_client_info": {
+          "package_name": "com.example.autocheck"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0yrPOeQeJ2otYqZ_Ixbkk0Ml1jrbgvk4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
